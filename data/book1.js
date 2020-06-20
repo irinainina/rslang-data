@@ -8005,7 +8005,7 @@
     "transcription": "[òuvərhwélm]",
     "wordTranslate": "нападает",
     "textMeaningTranslate": "Подавить значит существовать в таком большом количестве, что кто-то не может справиться с этим",
-    "textExampleTranslate": "The amount of homework her teacher assigned has overwhelmed her",
+    "textExampleTranslate": "Количество домашних заданий, которые назначил ее учитель, ошеломило ее",
     "id": 572
   },
   {
@@ -8019,7 +8019,7 @@
     "transcription": "[péimənt]",
     "wordTranslate": "оплата",
     "textMeaningTranslate": "Когда вы делаете платеж, вы даете кому-то немного денег за то, что вы получаете",
-    "textExampleTranslate": "I made the last payment on my car yesterday. Now I am really the owner",
+    "textExampleTranslate": "Я сделал последний платеж на моей машине вчера. Теперь я действительно владелец",
     "id": 573
   },
   {
@@ -8033,7 +8033,7 @@
     "transcription": "[pərsépʃən]",
     "wordTranslate": "восприятие",
     "textMeaningTranslate": "Восприятие ситуации - это способ думать об этом или понимать его",
-    "textExampleTranslate": "Since he couldn’t see, his perception of life was much different than mine",
+    "textExampleTranslate": "Так как он не мог видеть, его восприятие жизни сильно отличалось от моего",
     "id": 574
   },
   {
@@ -8047,7 +8047,7 @@
     "transcription": "[sétl]",
     "wordTranslate": "селиться",
     "textMeaningTranslate": "Когда вы что-то решаете, вы достигаете соглашения",
-    "textExampleTranslate": "We settled the argument by looking up the answer on the web",
+    "textExampleTranslate": "Мы уладили спор, посмотрев ответ в Интернете",
     "id": 575
   },
   {
@@ -8061,7 +8061,7 @@
     "transcription": "[ʃívəːr]",
     "wordTranslate": "мурашки",
     "textMeaningTranslate": "Дрожь - это дрожащее движение, которое делает тело, когда кто-то холоден или напуган",
-    "textExampleTranslate": "I got shivers on my way home because it was so cold",
+    "textExampleTranslate": "По дороге домой я получил дрожь, потому что было так холодно",
     "id": 576
   },
   {
@@ -8075,7 +8075,7 @@
     "transcription": "[sóuʃəbl]",
     "wordTranslate": "общительный",
     "textMeaningTranslate": "Когда кто-то общительный, он дружелюбный",
-    "textExampleTranslate": "Many of my good friends are sociable, but I am shy",
+    "textExampleTranslate": "Многие из моих хороших друзей общительны, но я стесняюсь",
     "id": 577
   },
   {
@@ -8089,7 +8089,7 @@
     "transcription": "[spiːd]",
     "wordTranslate": "скорость",
     "textMeaningTranslate": "Когда ты ускоряешься, ты едешь очень быстро",
-    "textExampleTranslate": "Speeding is the cause of most car accidents",
+    "textExampleTranslate": "Ускорение является причиной большинства автомобильных аварий",
     "id": 578
   },
   {
@@ -8103,7 +8103,7 @@
     "transcription": "[tɔ́ːkətiv]",
     "wordTranslate": "разговорчивы",
     "textMeaningTranslate": "Когда кто-то болтлив, он или она много говорит",
-    "textExampleTranslate": "My aunt is very talkative whenever she is on the phone",
+    "textExampleTranslate": "Моя тетя очень разговорчива, когда разговаривает по телефону",
     "id": 579
   },
   {
@@ -8117,7 +8117,7 @@
     "transcription": "[júːʒuəl]",
     "wordTranslate": "обычный",
     "textMeaningTranslate": "Когда что-то обычное, это то, что мы ожидаем",
-    "textExampleTranslate": "It was just the usual people who came",
+    "textExampleTranslate": "Это были просто обычные люди, которые пришли",
     "id": 580
   },
   {
@@ -8131,7 +8131,7 @@
     "transcription": "[əbʌ́v]",
     "wordTranslate": "над",
     "textMeaningTranslate": "Если что-то выше, это на более высоком уровне, чем что-то другое",
-    "textExampleTranslate": "He straightened the sign that was above the crowd",
+    "textExampleTranslate": "Он поправил знак, который был над толпой",
     "id": 581
   },
   {
@@ -8145,7 +8145,7 @@
     "transcription": "[əhéd]",
     "wordTranslate": "вперед",
     "textMeaningTranslate": "Если что-то впереди чего-то другого, то оно впереди",
-    "textExampleTranslate": "The blue car drove on ahead of us",
+    "textExampleTranslate": "Синяя машина ехала впереди нас",
     "id": 582
   },
   {
@@ -8159,7 +8159,7 @@
     "transcription": "[əmáunt]",
     "wordTranslate": "количество",
     "textMeaningTranslate": "Количество - это то, сколько есть чего-то",
-    "textExampleTranslate": "Can I use my card to pay for the entire amount?",
+    "textExampleTranslate": "Могу ли я использовать свою карту для оплаты всей суммы?",
     "id": 583
   },
   {
@@ -8173,7 +8173,7 @@
     "transcription": "[bilíːf]",
     "wordTranslate": "вера",
     "textMeaningTranslate": "Вера - это сильное чувство, что что-то правильно или верно",
-    "textExampleTranslate": "A preacher or priest should have a strong belief in God",
+    "textExampleTranslate": "Проповедник или священник должны иметь твердую веру в Бога",
     "id": 584
   },
   {
@@ -8187,7 +8187,7 @@
     "transcription": "[séntər]",
     "wordTranslate": "центр",
     "textMeaningTranslate": "Центр чего-то - это середина",
-    "textExampleTranslate": "The center of a dart board is the most important spot",
+    "textExampleTranslate": "Центр доски для дартса - самое важное место",
     "id": 585
   },
   {
@@ -8201,7 +8201,7 @@
     "transcription": "[kɑ́mən]",
     "wordTranslate": "общий",
     "textMeaningTranslate": "Если что-то общее, это случается часто или его много",
-    "textExampleTranslate": "It is common for snow to fall in the winter",
+    "textExampleTranslate": "Зимой выпадает снег",
     "id": 586
   },
   {
@@ -8215,7 +8215,7 @@
     "transcription": "[kɔːst]",
     "wordTranslate": "стоимость",
     "textMeaningTranslate": "К стоимости - значит требовать оплату",
-    "textExampleTranslate": "These designer shoes cost more than the regular ones",
+    "textExampleTranslate": "Эти дизайнерские туфли стоят дороже обычных",
     "id": 587
   },
   {
@@ -8229,7 +8229,7 @@
     "transcription": "[démənstrèit]",
     "wordTranslate": "продемонстрировать",
     "textMeaningTranslate": "Продемонстрировать что-то значит показать, как это делается",
-    "textExampleTranslate": "She demonstrated her plan to her co-workers",
+    "textExampleTranslate": "Она продемонстрировала свой план своим сотрудникам",
     "id": 588
   },
   {
@@ -8243,7 +8243,7 @@
     "transcription": "[dífərənt]",
     "wordTranslate": "другой",
     "textMeaningTranslate": "Разное описывает кого-то или что-то, что не совпадает с другими",
-    "textExampleTranslate": "Each of my sisters has a different hair style",
+    "textExampleTranslate": "У каждой из моих сестер разные прически",
     "id": 589
   },
   {
@@ -8257,7 +8257,7 @@
     "transcription": "[évidəns]",
     "wordTranslate": "доказательство",
     "textMeaningTranslate": "Доказательства - это факт или вещь, которую вы используете, чтобы доказать что-то",
-    "textExampleTranslate": "He used the pictures as evidence that UFOs are real",
+    "textExampleTranslate": "Он использовал фотографии в качестве доказательства того, что НЛО реальны",
     "id": 590
   },
   {
@@ -8271,7 +8271,7 @@
     "transcription": "[ɑ́nisti]",
     "wordTranslate": "честность",
     "textMeaningTranslate": "Честность означает качество быть правдивым или честным",
-    "textExampleTranslate": "A courtroom should be a place of honesty",
+    "textExampleTranslate": "Зал суда должен быть местом честности",
     "id": 591
   },
   {
@@ -8285,7 +8285,7 @@
     "transcription": "[ídiəm]",
     "wordTranslate": "идиома",
     "textMeaningTranslate": "Идиома - это фраза, значение которой отличается от ее слов",
-    "textExampleTranslate": "The idiom “when pigs fly” means that something will never happen",
+    "textExampleTranslate": "Идиома «когда свиньи летают» означает, что что-то никогда не случится",
     "id": 592
   },
   {
@@ -8299,7 +8299,7 @@
     "transcription": "[ìndipéndənt]",
     "wordTranslate": "независимый",
     "textMeaningTranslate": "Если что-то является независимым, оно не контролируется чем-то другим",
-    "textExampleTranslate": "She chose to live an independent life in the country",
+    "textExampleTranslate": "Она решила жить независимой жизнью в стране",
     "id": 593
   },
   {
@@ -8313,7 +8313,7 @@
     "transcription": "[ínsáid]",
     "wordTranslate": "внутри",
     "textMeaningTranslate": "Внутри означает внутреннюю часть, пространство или сторону чего-либо",
-    "textExampleTranslate": "The inside of the box was empty",
+    "textExampleTranslate": "Внутри коробки было пусто",
     "id": 594
   },
   {
@@ -8327,7 +8327,7 @@
     "transcription": "[dʒeil]",
     "wordTranslate": "тюрьма",
     "textMeaningTranslate": "Тюрьма - это место, где содержатся плохие люди",
-    "textExampleTranslate": "He was sent to jail for taking other people’s cars",
+    "textExampleTranslate": "Его посадили в тюрьму за то, что он брал чужие машины",
     "id": 595
   },
   {
@@ -8341,7 +8341,7 @@
     "transcription": "[mǽstəːr]",
     "wordTranslate": "мастер",
     "textMeaningTranslate": "Мастер - это человек, который очень хорош в чем-то",
-    "textExampleTranslate": "My brother is a master of taekwondo",
+    "textExampleTranslate": "Мой брат мастер тхэквондо",
     "id": 596
   },
   {
@@ -8355,7 +8355,7 @@
     "transcription": "[méməri]",
     "wordTranslate": "память",
     "textMeaningTranslate": "Память - это то, что ты помнишь",
-    "textExampleTranslate": "The memory of my first time in the city will always be the best",
+    "textExampleTranslate": "Память о моем первом пребывании в городе всегда будет лучшей",
     "id": 597
   },
   {
@@ -8369,7 +8369,7 @@
     "transcription": "[pάkit]",
     "wordTranslate": "карман",
     "textMeaningTranslate": "Карман - это часть вашей одежды, где вы можете хранить вещи",
-    "textExampleTranslate": "She always had her hands in her pockets",
+    "textExampleTranslate": "Она всегда держала руки в карманах",
     "id": 598
   },
   {
@@ -8383,7 +8383,7 @@
     "transcription": "[prɑ́pər]",
     "wordTranslate": "правильный",
     "textMeaningTranslate": "Если что-то правильно, это правильно",
-    "textExampleTranslate": "It is not proper to throw your garbage on the road",
+    "textExampleTranslate": "Не стоит выбрасывать мусор на дорогу",
     "id": 599
   },
   {
@@ -8397,7 +8397,7 @@
     "transcription": "[seil]",
     "wordTranslate": "продажа",
     "textMeaningTranslate": "Если что-то продается, вы можете купить это",
-    "textExampleTranslate": "Everything for sale here is the same price",
+    "textExampleTranslate": "Все для продажи здесь по той же цене",
     "id": 600
   }
 ];
