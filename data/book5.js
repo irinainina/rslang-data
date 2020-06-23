@@ -820,7 +820,7 @@ const book5 = [
     "textMeaning": "If something is thorough, it is complete or done carefully",
     "textExample": "Tina did a thorough job of cleaning the stains out of the carpet",
     "transcription": "[θə́ːrou]",
-    "wordTranslate": "кап",
+    "wordTranslate": "тщательно",
     "textMeaningTranslate": "Если что-то основательно, оно завершено или сделано тщательно",
     "textExampleTranslate": "Тина тщательно очистила пятна от ковра",
     "id": 2459
@@ -6686,7 +6686,7 @@ const book5 = [
     "textMeaning": "Sandy means covered with sand",
     "textExample": "I love walking on a sandy beach",
     "transcription": "[sǽndi]",
-    "wordTranslate": "сэнди",
+    "wordTranslate": "песчаный",
     "textMeaningTranslate": "Песчаный означает покрытый песком",
     "textExampleTranslate": "Я люблю гулять по песчаному пляжу",
     "id": 2878
@@ -7134,7 +7134,7 @@ const book5 = [
     "textMeaning": "The gears are the part of a motor that controls the speed",
     "textExample": "My brother has a car with four gears",
     "transcription": "[giər]",
-    "wordTranslate": "кП",
+    "wordTranslate": "механизмы",
     "textMeaningTranslate": "Механизмы являются частью двигателя, который контролирует скорость",
     "textExampleTranslate": "У моего брата машина с четырьмя передачами",
     "id": 2910
