@@ -1506,7 +1506,7 @@ const book3 = [
     "textMeaning": "A district is a small part of a city, county, state, or country",
     "textExample": "I live in a residential district of Seattle, Washington",
     "transcription": "[dístrikt]",
-    "wordTranslate": "р",
+    "wordTranslate": "район",
     "textMeaningTranslate": "Район - это небольшая часть города, округа, штата или страны",
     "textExampleTranslate": "Я живу в жилом районе Сиэтла, штат Вашингтон",
     "id": 1308
@@ -4530,7 +4530,7 @@ const book3 = [
     "textMeaning": "To confine something is to keep it in one place",
     "textExample": "The elephant is confined to a cage in the zoo",
     "transcription": "[kənfáin]",
-    "wordTranslate": "confine",
+    "wordTranslate": "ограничивать",
     "textMeaningTranslate": "Ограничить что-то - значит держать это в одном месте",
     "textExampleTranslate": "Слон ограничен клеткой в зоопарке",
     "id": 1524
@@ -5734,7 +5734,7 @@ const book3 = [
     "textMeaning": "DNA is the short form of deoxyribonucleic acid",
     "textExample": "The police sometimes use DNA to solve crime",
     "transcription": "[díːènéi]",
-    "wordTranslate": "дНК",
+    "wordTranslate": "ДНК",
     "textMeaningTranslate": "ДНК является короткой формой дезоксирибонуклеиновой кислоты",
     "textExampleTranslate": "Полиция иногда использует ДНК для раскрытия преступлений",
     "id": 1610
@@ -6672,7 +6672,7 @@ const book3 = [
     "textMeaning": "To refer to something means to mention or call attention to it",
     "textExample": "Mr. Cid referred to the time to show Bill that he was late for class",
     "transcription": "[rifə́ːr]",
-    "wordTranslate": "см",
+    "wordTranslate": "ссылаться",
     "textMeaningTranslate": "Ссылаться на что-либо - значит упоминать или привлекать к себе внимание",
     "textExampleTranslate": "Мистер Сид сослался на время, чтобы показать Биллу, что он опоздал на урок",
     "id": 1677
