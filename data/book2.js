@@ -3354,7 +3354,7 @@ const book2 = [
     "textMeaning": "To sue is to take someone to court for some harmful action",
     "textExample": "I sued the company after I slipped on a banana peel in their hallway",
     "transcription": "[suː]",
-    "wordTranslate": "сью",
+    "wordTranslate": "подать",
     "textMeaningTranslate": "Подать в суд - значит привлечь кого-либо к суду за какое-либо вредное действие",
     "textExampleTranslate": "Я подал в суд на компанию после того, как поскользнулся на банановой кожуре в их коридоре",
     "id": 840
@@ -7932,7 +7932,7 @@ const book2 = [
     "textMeaning": "Feathers are the things covering a bird’s bodies",
     "textExample": "That bird has orange feathers on its chest",
     "transcription": "[féðər]",
-    "wordTranslate": " Перо",
+    "wordTranslate": "перо",
     "textMeaningTranslate": "Перья - это вещи, покрывающие тела птицы",
     "textExampleTranslate": "У этой птицы оранжевые перья на груди",
     "id": 1167
@@ -8268,7 +8268,7 @@ const book2 = [
     "textMeaning": "To hop means to jump a short distance",
     "textExample": "The kangaroo quickly hopped away from danger",
     "transcription": "[hɔp]",
-    "wordTranslate": "хоп",
+    "wordTranslate": "подпрыгнуть",
     "textMeaningTranslate": "Прыгать - значит прыгать на короткое расстояние",
     "textExampleTranslate": "Кенгуру быстро отскочил от опасности",
     "id": 1191
