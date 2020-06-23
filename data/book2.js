@@ -722,7 +722,7 @@ const book2 = [
     "textMeaning": "A log is a thick piece of wood that is cut from a tree",
     "textExample": "The fire was too small, so we added another log to it",
     "transcription": "[lɔːg]",
-    "wordTranslate": "журнал",
+    "wordTranslate": "бревно",
     "textMeaningTranslate": "Бревно - это толстый кусок дерева, вырезанный из дерева",
     "textExampleTranslate": "Огонь был слишком мал, поэтому мы добавили еще одно бревно",
     "id": 652
