@@ -2346,7 +2346,7 @@ const book4 = [
     "textMeaning": "To excel at a subject or activity means to be very good at it",
     "textExample": "Jenny excels at playing the piano",
     "transcription": "[iksél] (excel is related to excellent)",
-    "wordTranslate": "excel",
+    "wordTranslate": "превосходно",
     "textMeaningTranslate": "Превзойти в предмете или деятельности значит быть очень хорошим в этом",
     "textExampleTranslate": "Дженни отлично играет на пианино",
     "id": 1968
@@ -2822,7 +2822,7 @@ const book4 = [
     "textMeaning": "To astonish someone means to greatly surprise them",
     "textExample": "The number of people that came to her party astonished her",
     "transcription": "[əstɑ́niʃ]",
-    "wordTranslate": "astonish",
+    "wordTranslate": "поражать",
     "textMeaningTranslate": "Удивить кого-то - значит сильно удивить его",
     "textExampleTranslate": "Количество людей, пришедших на ее вечеринку, поразило ее",
     "id": 2002
@@ -3172,7 +3172,7 @@ const book4 = [
     "textMeaning": "To compel someone to do something means to force them to do it",
     "textExample": "Traffic signs compel drivers to drive safely",
     "transcription": "[kəmpél]",
-    "wordTranslate": "компел",
+    "wordTranslate": "принуждать",
     "textMeaningTranslate": "Заставить кого-то сделать что-то значит заставить его сделать это",
     "textExampleTranslate": "Дорожные знаки заставляют водителей безопасно ездить",
     "id": 2027
@@ -5132,7 +5132,7 @@ const book4 = [
     "textMeaning": "To err means to make a mistake",
     "textExample": "The pilot erred in his estimate of the time it would take to make the trip",
     "transcription": "[əːr]",
-    "wordTranslate": "эээ",
+    "wordTranslate": "ошибаться",
     "textMeaningTranslate": "Ошибаться - значит ошибиться",
     "textExampleTranslate": "Пилот ошибся в оценке времени, которое потребуется, чтобы совершить поездку",
     "id": 2167
@@ -6028,7 +6028,7 @@ const book4 = [
     "textMeaning": "To hone something is to improve it and make it very good",
     "textExample": "Lisa honed her chess skills through hours and hours of practice",
     "transcription": "[houn]",
-    "wordTranslate": "хон",
+    "wordTranslate": "улучшать",
     "textMeaningTranslate": "Оттачивать что-то - значит улучшать и делать это очень хорошо",
     "textExampleTranslate": "Лиза оттачивала свои шахматные навыки часами практики",
     "id": 2231
