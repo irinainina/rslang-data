@@ -750,7 +750,7 @@ const book6 = [
     "textMeaning": "To deem means to consider something",
     "textExample": "I deemed the ice cream to be very delicious",
     "transcription": "[diːm]",
-    "wordTranslate": "дим",
+    "wordTranslate": "считать",
     "textMeaningTranslate": "Считать значит считать что-то",
     "textExampleTranslate": "Я посчитал мороженое очень вкусным",
     "id": 3054
@@ -2948,7 +2948,7 @@ const book6 = [
     "textMeaning": "Kin is a person’s family and relatives",
     "textExample": "His kin were all farmers",
     "transcription": "[kin]",
-    "wordTranslate": "кин",
+    "wordTranslate": "род",
     "textMeaningTranslate": "Род - это семья и родственники человека",
     "textExampleTranslate": "Все его родственники были фермерами",
     "id": 3211
@@ -4824,7 +4824,7 @@ const book6 = [
     "textMeaning": "A din is loud, unpleasant, and extended noise",
     "textExample": "The din of the rusty machinery made the factory a horrible place to work",
     "transcription": "[din]",
-    "wordTranslate": "дин",
+    "wordTranslate": "грохот",
     "textMeaningTranslate": "Грохот громкий, неприятный и продолжительный шум",
     "textExampleTranslate": "Грохот ржавого оборудования сделал фабрику ужасным местом для работы",
     "id": 3345
@@ -5902,7 +5902,7 @@ const book6 = [
     "textMeaning": "When you confront someone, you meet them face to face to deal with a problem",
     "textExample": "I confronted him as he left the meeting and told him I thought he was wrong",
     "transcription": "[kənfrΛnt]",
-    "wordTranslate": "конфронт",
+    "wordTranslate": "столкновение",
     "textMeaningTranslate": "Когда вы сталкиваетесь с кем-то, вы встречаетесь с ним лицом к лицу, чтобы справиться с проблемой",
     "textExampleTranslate": "Я столкнулся с ним, когда он выходил из собрания, и сказал, что я думаю, что он неправ",
     "id": 3422
@@ -6070,7 +6070,7 @@ const book6 = [
     "textMeaning": "If something or someone is splendid, then they are very good",
     "textExample": "From his head down to his shoes, his clothes looked splendid",
     "transcription": "[spléndid]",
-    "wordTranslate": "splendid",
+    "wordTranslate": "великолепно",
     "textMeaningTranslate": "Если что-то или кто-то великолепен, то они очень хороши",
     "textExampleTranslate": "От его головы до ботинок, его одежда выглядела великолепно",
     "id": 3434
@@ -6238,7 +6238,7 @@ const book6 = [
     "textMeaning": "To collide with something means to hit it while moving",
     "textExample": "The two cars collided with each other because their drivers were not careful",
     "transcription": "[kəláid]",
-    "wordTranslate": "collide",
+    "wordTranslate": "столкновение",
     "textMeaningTranslate": "Столкнуться с чем-то - значит ударить по нему во время движения",
     "textExampleTranslate": "Две машины столкнулись друг с другом, потому что их водители не были осторожны",
     "id": 3446
@@ -7148,7 +7148,7 @@ const book6 = [
     "textMeaning": "If one is lame, they cannot walk properly due to an injury to the leg or foot",
     "textExample": "The terrible accident left many people dead and several others lame",
     "transcription": "[leim]",
-    "wordTranslate": "ламе",
+    "wordTranslate": "хромать",
     "textMeaningTranslate": "Если кто-то хромает, он не может нормально ходить из-за травмы ноги или ступни",
     "textExampleTranslate": "Ужасная авария привела к гибели многих людей и еще нескольких хромых",
     "id": 3511
@@ -7708,7 +7708,7 @@ const book6 = [
     "textMeaning": "To prod means to push someone or something with a finger or pointed object",
     "textExample": "The bully prodded me in the chest with her finger",
     "transcription": "[prɑd]",
-    "wordTranslate": "прод",
+    "wordTranslate": "ткнуть",
     "textMeaningTranslate": "Продвигать означает толкать кого-то или что-то пальцем или острым предметом",
     "textExampleTranslate": "Хулиган ткнул меня пальцем в грудь",
     "id": 3551
@@ -7946,7 +7946,7 @@ const book6 = [
     "textMeaning": "A hectare is a unit of measure equal to 10,000 square meters",
     "textExample": "His family farm covered many hectares",
     "transcription": "[héktɛər]",
-    "wordTranslate": "га",
+    "wordTranslate": "гектар",
     "textMeaningTranslate": "Гектар - это единица измерения, равная 10000 квадратных метров ",
     "textExampleTranslate": "Его семейная ферма занимала много гектаров",
     "id": 3568
